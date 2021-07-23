@@ -5,7 +5,9 @@
 https://github.com/hibahnav/DataVis-/blob/main/Patents.md
 
 
-- Edtech and Privacy Violations: https://github.com/hibahnav/DataVis-/blob/main/EdTech.md
+- Edtech and Privacy Violations: 
+https://github.com/hibahnav/DataVis-/blob/main/EdTech.md
 
 
-- Telehealth usage during the Pandemic: https://github.com/hibahnav/DataVis-/blob/main/Telehealth.md
+- Telehealth usage during the Pandemic: 
+https://github.com/hibahnav/DataVis-/blob/main/Telehealth.md
