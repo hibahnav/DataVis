@@ -1,6 +1,6 @@
 
   
-## Towards the Post-Pandemic World: A Closer Look at the Work-from-Home discussion
+## Towards the Post-Pandemic World: A Closer Look at the Work-from-Home Discussion
 
 With around 77% of the global workforce working from home full-time according to a report by Global Workplace Analytics, 
 2020 saw an explosion of google searches for “Zoom Fatigue”.
