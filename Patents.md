@@ -17,6 +17,6 @@ Using worldwide patent application data for “work-from-home” (WFH) related t
 we observe that innovation in this space was on the rise prior to the pandemic but seems to have slowed down considerably towards the end of 2020, 
 perhaps suggesting that - with much of the needed technology already present - the break-through leading to successful WFH outcomes was 
 not so much technological as it was organizational and cultural. And now that the organizational and cultural infrastructure is in place, workplaces 
-are in much better shape to offer employees more work-from-home days post-pandemic than they have in previous years.
+are in much better shape to offer employees more work-from-home days post-pandemic than in previous years.
 
 
