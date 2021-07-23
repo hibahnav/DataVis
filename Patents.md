@@ -25,7 +25,7 @@ are in much better shape to offer employees more work-from-home days post-pandem
 - Data from WIPO's PATENTSCOPE database: https://patentscope.wipo.int/search/en/search.jsf
 - Inspiration on methodology from: https://bfi.uchicago.edu/wp-content/uploads/2020/09/BFI_WP_2020133.pdf
 
-## Methodology
+### Methodology
 
 Using the PATENTSCOPE database's simple search feature and taking inspiration from the abovementioned paper, I searched the following terms to obtain patent applications data on work-from-home related technologies:
 
