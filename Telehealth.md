@@ -11,4 +11,4 @@ Now, according to The Harris Poll, around 65% of people report that they plan to
   
 ### Source: https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.01786
 
-  
+This visualization was created using Canva.com.
