@@ -14,7 +14,11 @@ revenue, are unlikely to be of any benefit to either students or educators.
 </p>
   
   
-### Data from: https://arxiv.org/abs/2012.05867
+### Sources:
+Data from: https://arxiv.org/abs/2012.05867
+
+### Code: 
+This visualization was created in R. Code to be uploaded soon. 
   
   
   
