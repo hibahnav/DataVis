@@ -20,3 +20,18 @@ not so much technological as it was organizational and cultural. And now that th
 are in much better shape to offer employees more work-from-home days post-pandemic than in previous years.
 
 
+### Sources:
+
+- Data from WIPO's PATENTSCOPE database: https://patentscope.wipo.int/search/en/search.jsf
+- Inspiration on methodology from: https://bfi.uchicago.edu/wp-content/uploads/2020/09/BFI_WP_2020133.pdf
+
+## Methodology
+
+Using the PATENTSCOPE database's simple search feature and taking inspiration from the abovementioned paper, I searched the following terms to obtain patent applications data on work-from-home related technologies:
+
+{work from home, telework, remote work, teleworking, working from home, remote working, work from anywhere, working at home, mobile work, mobile working, videoconference, virtual office,  distance work, virtual work, work remotely, home office,  home based office, home based work, digital work, teleconferencing, telecommuter, telecommuting}
+
+After compiling a full dataset after merging each of the above datasets, I filtered for the years 2019, 2020 and 2021 to compare the amount of patent applications for each year (code to come soon).
+
+This was all done in R.
+
