@@ -1,4 +1,4 @@
-# DataVis
+# Data Visualization and Storytelling
 
 
 - Exploring Patent Data to take a closer look at Work-from-Home related innovation and implications on the future of work:
