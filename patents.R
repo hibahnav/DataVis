@@ -5,7 +5,7 @@ library(hrbrthemes)
 
 
 #### create dataset #######
-dat <- read.csv('/Users/faizanaviwala/Desktop/data_patents.csv')
+dat <- read.csv('/Users/hibahnaviwala/Desktop/data_patents.csv')
 head(dat)
 
 datappend <- data.frame(Industry = c(rep('food chem',7),rep('basic materials chem',7),rep('metallurgy',7), 
